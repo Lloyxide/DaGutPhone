@@ -13,7 +13,10 @@
   letter-spacing: 1px;
   background: rgba(0,0,0,0);
 }
+.aligne{
+display : inline-block;
 
+}
 /* enable absolute positioning */
 .enjoy-cssx {
   width: 250px;
@@ -32,7 +35,7 @@
   position: absolute;
   padding: 13px;
   pointer-events: none;
-display : inlin-eblock;
+display : inline-block;
 }
 
 /* align icon */
